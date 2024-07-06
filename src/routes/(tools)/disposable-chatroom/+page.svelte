@@ -18,6 +18,7 @@ function toggleTheme() {
 // Function to handle form submission (create room logic)
 function createRoom() {
     console.log('Creating room:', roomName, displayName);
+    window.location.href = 'src/routes/(tools)/disposable-chatroom/pageChatroom.svelte';
 
 }
 
