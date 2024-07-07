@@ -295,6 +295,11 @@
                 <img src="/src/routes/(tools)/disposable-chatroom/avatar-image-female.png" alt="Nikita">
                 <div>Nikita</div>
             </div>
+            <div class="participant">
+                <div class="status online"></div>
+                <img src="/src/routes/(tools)/disposable-chatroom/avatar-image-female.png" alt="Nikita">
+                <div>Jahnvi Patil</div>
+            </div>
         </div>
     </div>
 
